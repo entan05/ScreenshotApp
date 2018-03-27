@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 通常時 -->
+    <item
+        android:drawable="@drawable/capture_button_default"
+        android:state_pressed="false"/>
+
+    <!-- 押下時 -->
+    <item
+        android:drawable="@drawable/capture_button_pressed"
+        android:state_pressed="true" />
+</selector>

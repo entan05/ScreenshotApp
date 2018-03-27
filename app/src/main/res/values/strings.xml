@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ScreenshotApp</string>
+
+    <string name="temp">xxxxx</string>
+
+    <string name="app_startUp">Start up</string>
+
+    <string name="display_position">Display Position</string>
+
+    <string-array name="position_array">
+        <item>Left   - Top</item>
+        <item>Center - Top</item>
+        <item>Right  - Top</item>
+        <item>Left   - Center</item>
+        <item>Center - Center</item>
+        <item>Right  - Center</item>
+        <item>Left   - Bottom</item>
+        <item>Center - Bottom</item>
+        <item>Right  - Bottom</item>
+    </string-array>
+
+    <string name="positive">OK</string>
+    <string name="negative">Cancel</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_layout">16dp</dimen>
+
+    <dimen name="button_size">30sp</dimen>
+
+    <!-- 参考：https://qiita.com/takahirom/items/c90134b1c29efdcdb57d -->
+    <dimen name="textSize_display4">112sp</dimen>
+    <dimen name="textSize_display3">56sp</dimen>
+    <dimen name="textSize_display2">45sp</dimen>
+    <dimen name="textSize_display1">34sp</dimen>
+
+    <dimen name="textSize_headline">24sp</dimen>
+
+    <dimen name="textSize_title">21sp</dimen>
+
+    <dimen name="textSize_subheading">17sp</dimen>
+
+    <dimen name="textSize_body">15sp</dimen>
+
+    <dimen name="textSize_caption">13sp</dimen>
+
+    <dimen name="textSize_button">15sp</dimen>
+</resources>
